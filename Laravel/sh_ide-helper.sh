@@ -1,0 +1,1 @@
+/home/rene/LaravelProjects/laravel_shared/BASH/ide.sh
